@@ -9,12 +9,11 @@ Der Vereinszweck wird erreicht durch:
 
 Der Zweck wird verwirklicht durch Mitgliedsbeiträge und Sammlung von Spenden. 
 
-![Haende](assets/gfx/haende.jpg)
-
-Jede natürliche und juristische Person, die die Ziele des Vereins unterstützt, kann Mitglied werden. Zur Erlangung der Mitgliedschaft ist ein schriftlicher Aufnahmeantrag an den Vorstand zu senden, der die Entscheidung darüber im freien Ermessen trifft. Im Ablehnungsfalle ist der Vorstand zur Mitteilung über die Gründe nicht verpflichtet. 
 
 ### Mitmachen? Mitmachen!
-...
+Jede natürliche und juristische Person, die die Ziele des Vereins unterstützt, kann Mitglied werden. Zur Erlangung der Mitgliedschaft ist ein schriftlicher Aufnahmeantrag an den Vorstand zu senden, der die Entscheidung darüber im freien Ermessen trifft. Im Ablehnungsfalle ist der Vorstand zur Mitteilung über die Gründe nicht verpflichtet. 
+
+![Haende](assets/gfx/haende.jpg)
 
 
 ### Kontakt
