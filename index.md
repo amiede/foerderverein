@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Herzlich Willkommen
 
-You can use the [editor on GitHub](https://github.com/amiede/foerderverein/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Zweck des Vereins ist die Förderung der Erziehung und der pädagogischen Arbeit der [Hohenzollern–KiTa der htw saar und der AWO](https://www.htwsaar.de/studium-und-lehre/service-und-beratung/rund-ums-studium/kindertagesstaette).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Der Vereinszweck wird erreicht durch: 
+ * die Unterstützung bei der Durchführung von gemeinsamen Veranstaltungen der Kindertagesstätte wie gemeinschaftlichen Aktivitäten, ergänzenden Bildungsangeboten (beispielsweise Sport-, Musik- oder Kunstkurse) und Ausflügen,
 
-### Markdown
+ * die Beschaffung von Ausstattungsgegenständen und Verbrauchsmaterialien für die pädagogische Arbeit der Kindertagesstätte, soweit deren Finanzierung über Eigenmittel des Trägers oder sonstige öffentliche Mittel aus vertraglicher bzw. gesetzlicher Verpflichtung nicht möglich ist, weil entweder kein entsprechender Mittelansatz vorgesehen oder der betreffende Mittelansatzansatz bereits ausgeschöpft ist,
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Der Zweck wird verwirklicht durch Mitgliedsbeiträge und Sammlung von Spenden. 
 
-```markdown
-Syntax highlighted code block
+![Haende](assets/gfx/haende.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+Jede natürliche und juristische Person, die die Ziele des Vereins unterstützt, kann Mitglied werden. Zur Erlangung der Mitgliedschaft ist ein schriftlicher Aufnahmeantrag an den Vorstand zu senden, der die Entscheidung darüber im freien Ermessen trifft. Im Ablehnungsfalle ist der Vorstand zur Mitteilung über die Gründe nicht verpflichtet. 
 
-- Bulleted
-- List
+### Mitmachen? Mitmachen!
+...
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Kontakt
+...
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amiede/foerderverein/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Vorstand
+...
