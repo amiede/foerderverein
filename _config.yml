@@ -2,3 +2,6 @@ theme: jekyll-theme-architect
 show_downloads: false
 title: Förderverein 
 description: der Hohenzollern-KiTa der htw saar und der AWO
+url: 'https://amiede.github.io/foerderverein/'
+github_username: amiede
+github: [metadata]
