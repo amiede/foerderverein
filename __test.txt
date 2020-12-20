@@ -1,4 +1,4 @@
 github_username: amiede
 github: [metadata]
+url: https://amiede.github.io/foerderverein/
 
-url: 'https://amiede.github.io/foerderverein/'
