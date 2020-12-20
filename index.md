@@ -1,7 +1,5 @@
 ![Logo](https://dummyimage.com/600x200/db1cbb/fff.png&text=Logo-Platzhalter)
 
-[Link to another page](./another-page.html).
-
 ## Herzlich Willkommen
 
 Zweck des Vereins ist die Förderung der Erziehung und der pädagogischen Arbeit der [Hohenzollern–KiTa der htw saar und der AWO](https://www.htwsaar.de/studium-und-lehre/service-und-beratung/rund-ums-studium/kindertagesstaette).
@@ -72,6 +70,6 @@ Goebenstraße 40
 [Der Haftungsausschluss/Disclaimer ist hier zu finden.](https://www.disclaimer.de/disclaimer.htm?farbe=FFFFFF/000000/000000/000000)
 
 ## Datenschutzerklärung
-[Die Datenschutzerklärung ist hier zu finden.](./datenschutz)
+[Die Datenschutzerklärung ist hier zu finden.](./datenschutz.html)
 
 * * *
