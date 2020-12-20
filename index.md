@@ -29,49 +29,49 @@ Jede natürliche und juristische Person, die die Ziele des Vereins unterstützt,
 
 ## Impressum / Kontakt
 Förderverein der Hohenzollern-KiTa der htw saar und der AWO e.V.
-
-
-### Gemeinschaftlich vertretungsberechtigt:
-#### 1. Vorsitzende:
-Susan Pulham
-htw saar – Hochschule für Technik und Wirtschaft des Saarlandes
-Fakultät für Wirtschaftswissenschaften
-Waldhausweg 7
+ 
+### Gemeinschaftlich vertretungsberechtigt 
+#### Vorsitzende
+Susan Pulham  
+htw saar – Hochschule für Technik und Wirtschaft des Saarlandes  
+Fakultät für Wirtschaftswissenschaften  
+Waldhausweg 7  
 66123 Saarbrücken
 
-Telefon: 0681 5867-525
+Telefon: 0681 5867-525  
 E-Mail: susan.pulham@htwsaar.de
 
-#### Schatzmeister:
-André Miede
-htw saar – Hochschule für Technik und Wirtschaft des Saarlandes
-Fakultät für Ingenieurwissenschaften
-Goebenstraße 40
+#### Schatzmeister
+André Miede  
+htw saar – Hochschule für Technik und Wirtschaft des Saarlandes  
+Fakultät für Ingenieurwissenschaften  
+Goebenstraße 40  
 66117 Saarbrücken
 
-Telefon: 0681 5867-782
+Telefon: 0681 5867-782  
 E-Mail: andre.miede@htwsaar.de
 
-### Registergericht: 
+### Registergericht
 Amtsgericht Saarbrücken
 
-### Registernummer: VR 5466
+### Registernummer
+VR 5466
 
-### Umsatzsteuer-Identifikationsnummer:
+### Umsatzsteuer-Identifikationsnummer
 n/a
 
-### V.i.S.d § 55 Abs. 2 RStV:
-André Miede
-htw saar – Hochschule für Technik und Wirtschaft des Saarlandes
-Fakultät für Ingenieurwissenschaften
-Goebenstraße 40
+### V.i.S.d § 55 Abs. 2 RStV
+André Miede  
+htw saar – Hochschule für Technik und Wirtschaft des Saarlandes  
+Fakultät für Ingenieurwissenschaften  
+Goebenstraße 40  
 66117 Saarbrücken
 
 
-#### Haftungsausschluss/Disclaimer
+## Haftungsausschluss/Disclaimer
 [Der Haftungsausschluss/Disclaimer ist hier zu finden.](https://www.disclaimer.de/disclaimer.htm?farbe=FFFFFF/000000/000000/000000)
 
-#### Datenschutzerklärung
+## Datenschutzerklärung
 [Die Datenschutzerklärung ist hier zu finden.](./datenschutz)
 
 * * *
