@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-
-## Hosting mit GitHub Pages
-Diese Webseite wird gehostet auf Servern der Github Inc., 88 Colin P Kelly Jr. Street, San Francisco, CA 94107, USA. GitHub kann beim Aufruf dieser Webseiten technische Informationen inklusive ihrer IP Adresse aufzeichnen. Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von GitHub unter <https://help.github.com/articles/github-privacy-policy>.
-
 <h1 class="adsimple-311242756">Datenschutzerklärung</h1>
 <h2 class="adsimple-311242756">Datenschutz</h2>
 <p>Wir haben diese Datenschutzerklärung (Fassung 20.12.2020-311242756) verfasst, um Ihnen gemäß der Vorgaben der <a class="adsimple-311242756" href="https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32016R0679&amp;tid=311242756" target="_blank" rel="noopener">Datenschutz-Grundverordnung (EU) 2016/679</a> zu erklären, welche Informationen wir sammeln, wie wir Daten verwenden und welche Entscheidungsmöglichkeiten Sie als Besucher dieser Webseite haben.</p>
@@ -100,3 +96,7 @@ Im Folgenden erklären wir, was Cookies sind und warum Sie genutzt werden, damit
 <p>Wir verwenden https um Daten abhörsicher im Internet zu übertragen (Datenschutz durch Technikgestaltung <a class="adsimple-311242756" href="https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&amp;from=DE&amp;tid=311242756" target="_blank" rel="noopener">Artikel 25 Absatz 1 DSGVO</a>). Durch den Einsatz von TLS (Transport Layer Security), einem Verschlüsselungsprotokoll zur sicheren Datenübertragung im Internet können wir den Schutz vertraulicher Daten sicherstellen. Sie erkennen die Benutzung dieser Absicherung der Datenübertragung am kleinen Schloßsymbol links oben im Browser und der Verwendung des Schemas https (anstatt http) als Teil unserer Internetadresse.</p>
 <p style="margin-top:15px;">Quelle: Erstellt mit dem <a title="Datenschutz Generator Deutschland" href="https://www.adsimple.de/datenschutz-generator/" target="_blank" rel="follow" style="text-decoration:none;">Datenschutz Generator</a> von AdSimple in Kooperation mit <a href="https://www.hashtagmann.de" target="_blank" rel="follow" title="">hashtagmann.de</a>
 </p>
+
+* * *
+
+[Nach oben](#)
