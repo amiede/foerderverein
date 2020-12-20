@@ -1,4 +1,4 @@
-![Logo](https://dummyimage.com/400x200/db1cbb/fff.png&text=Logo-Platzhalter)
+![Logo](https://dummyimage.com/800x100/db1cbb/fff.png&text=Logo-Platzhalter)
 
 ## Herzlich Willkommen
 
@@ -15,21 +15,10 @@ Der Zweck wird verwirklicht durch Mitgliedsbeiträge und Sammlung von Spenden.
 ## Mitmachen? Mitmachen!
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-<a href="#" class="button">
-  Flyer
-  <small>PDF</small>
-</a>
-
-<a href="#" class="button">
-  <small>Mitgliedsantrag</small>
-  <small>PDF</small>
-</a>
-
-<a href="#" class="button">
-  Satzung
-  <small>PDF</small>
-</a>
-
+### Unterlagen
+ * Flyer
+ * Mitgliedsantrag
+ * Satzung
 
 <!--## Aktivitäten
 Übersicht der bisherigen Projekte etc.
