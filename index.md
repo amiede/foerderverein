@@ -1,4 +1,4 @@
-![Logo](https://dummyimage.com/800x100/db1cbb/fff.png&text=Logo-Platzhalter)
+![Logo](https://dummyimage.com/800x200/db1cbb/fff.png&text=Logo-Platzhalter)
 
 ## Herzlich Willkommen
 
@@ -16,7 +16,7 @@ Der Zweck wird verwirklicht durch Mitgliedsbeiträge und Sammlung von Spenden.
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ### Unterlagen
- * [Flyer)(#) [PDF]
+ * [Flyer](#) [PDF]
  * [Mitgliedsantrag](#) [PDF]
  * [Satzung](#) [PDF]
  * [Beitragssatzung](#) [PDF]
