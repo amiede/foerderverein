@@ -16,9 +16,10 @@ Der Zweck wird verwirklicht durch Mitgliedsbeiträge und Sammlung von Spenden.
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ### Unterlagen
- * Flyer
- * Mitgliedsantrag
- * Satzung
+ * [Flyer)(#) [PDF]
+ * [Mitgliedsantrag](#) [PDF]
+ * [Satzung](#) [PDF]
+ * [Beitragssatzung](#) [PDF]
 
 <!--## Aktivitäten
 Übersicht der bisherigen Projekte etc.
