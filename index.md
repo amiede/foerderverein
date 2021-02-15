@@ -1,4 +1,6 @@
-![Logo](https://dummyimage.com/800x200/db1cbb/fff.png&text=Logo-Platzhalter)
+<!--![Logo](https://dummyimage.com/800x200/db1cbb/fff.png&text=Logo-Platzhalter)-->
+
+![Logo](72_fvkita_logo_transparent.png)
 
 ## Herzlich Willkommen
 
@@ -16,10 +18,10 @@ Der Zweck wird verwirklicht durch Mitgliedsbeiträge und Sammlung von Spenden.
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ### Unterlagen
- * [Flyer](#) [PDF]
- * [Mitgliedsantrag](#) [PDF]
- * [Satzung](#) [PDF]
- * [Beitragssatzung](#) [PDF]
+ * [Flyer](Elternbrief_Foerderverein.pdf) [PDF]
+ * [Mitgliedsantrag](2021_Mitgliedsantrag_Foerderverein.pdf) [PDF]
+ * [Satzung](2018_Satzung_Foerderverein.pdf) [PDF]
+ * [Beitragssatzung](2021_Beitragssatzung.pdf) [PDF]
 
 <!--## Aktivitäten
 Übersicht der bisherigen Projekte etc.
@@ -80,6 +82,10 @@ Diese Webseite wird gehostet auf Servern der Github Inc., 88 Colin P Kelly Jr. S
 
 [Die Datenschutzerklärung ist hier zu finden.](./datenschutz)
 
+
+* * *
+
+Für das Logo wurden Graphiken des Künstlers [Gustavo Rezende](https://pixabay.com/users/gustavorezende-1488336/) verwendet. Muito obrigado!
 
 * * *
 
