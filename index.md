@@ -15,7 +15,7 @@ Der Zweck wird verwirklicht durch Mitgliedsbeiträge und Sammlung von Spenden.
 
 
 ## Mitmachen? Mitmachen!
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Werden Sie Mitglied im Förderverein. Die Mitwirkung im Förderverein ist ganz einfach: Unterstützung bei Ausflügen und Veranstaltungen oder finanzielle Beiträge sind herzlich willkommen. Sprechen Sie uns gern an oder füllen Sie den Mitgliedsantrag aus und geben Sie ihn im Büro der Hohenzollern Kita ab oder mailen Sei ihn an die unten angegebenen Adressen. Wir freuen uns auf Sie!
 
 ### Unterlagen
  * [Flyer](Elternbrief_Foerderverein.pdf) [PDF]
@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ## Impressum / Kontakt
 Förderverein der Hohenzollern-KiTa der htw saar und der AWO e.V.
  
-### Gemeinschaftlich vertretungsberechtigt 
+### Ansprechpartner / Gemeinschaftlich vertretungsberechtigt 
 #### Vorsitzende
 Susan Pulham  
 htw saar – Hochschule für Technik und Wirtschaft des Saarlandes  
@@ -44,7 +44,7 @@ Waldhausweg 7
 66123 Saarbrücken
 
 Telefon: 0681 5867-525  
-E-Mail: susan.pulham@htwsaar.de
+E-Mail: <susan.pulham@htwsaar.de>
 
 #### Schatzmeister
 André Miede  
@@ -54,13 +54,10 @@ Goebenstraße 40
 66117 Saarbrücken
 
 Telefon: 0681 5867-782  
-E-Mail: andre.miede@htwsaar.de
+E-Mail: <andre.miede@htwsaar.de>
 
-### Registergericht
-Amtsgericht Saarbrücken
-
-### Registernummer
-VR 5466
+### Registergericht / Registernummer
+Amtsgericht Saarbrücken / VR 5466
 
 ### Umsatzsteuer-Identifikationsnummer
 n/a
