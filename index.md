@@ -9,7 +9,7 @@ Zweck des Vereins ist die Förderung der Erziehung und der pädagogischen Arbeit
 Der Vereinszweck wird erreicht durch: 
  * die Unterstützung bei der Durchführung von gemeinsamen Veranstaltungen der Kindertagesstätte wie gemeinschaftlichen Aktivitäten, ergänzenden Bildungsangeboten (beispielsweise Sport-, Musik- oder Kunstkurse) und Ausflügen,
 
- * die Beschaffung von Ausstattungsgegenständen und Verbrauchsmaterialien für die pädagogische Arbeit der Kindertagesstätte, soweit deren Finanzierung über Eigenmittel des Trägers oder sonstige öffentliche Mittel aus vertraglicher bzw. gesetzlicher Verpflichtung nicht möglich ist, weil entweder kein entsprechender Mittelansatz vorgesehen oder der betreffende Mittelansatzansatz bereits ausgeschöpft ist,
+ * die Beschaffung von Ausstattungsgegenständen und Verbrauchsmaterialien für die pädagogische Arbeit der Kindertagesstätte, soweit deren Finanzierung über Eigenmittel des Trägers oder sonstige öffentliche Mittel aus vertraglicher bzw. gesetzlicher Verpflichtung nicht möglich ist.
 
 Der Zweck wird verwirklicht durch Mitgliedsbeiträge und Sammlung von Spenden. 
 
